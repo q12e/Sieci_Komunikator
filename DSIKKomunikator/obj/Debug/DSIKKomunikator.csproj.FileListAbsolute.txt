@@ -1,0 +1,35 @@
+C:\Users\Papryk\source\repos\DSIKKomunikator\DSIKKomunikator\bin\Debug\DSIKKomunikator.exe.config
+C:\Users\Papryk\source\repos\DSIKKomunikator\DSIKKomunikator\bin\Debug\DSIKKomunikator.exe
+C:\Users\Papryk\source\repos\DSIKKomunikator\DSIKKomunikator\bin\Debug\DSIKKomunikator.pdb
+C:\Users\Papryk\source\repos\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.csprojResolveAssemblyReference.cache
+C:\Users\Papryk\source\repos\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Form1.resources
+C:\Users\Papryk\source\repos\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Form2.resources
+C:\Users\Papryk\source\repos\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Form3.resources
+C:\Users\Papryk\source\repos\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Properties.Resources.resources
+C:\Users\Papryk\source\repos\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.csproj.GenerateResource.Cache
+C:\Users\Papryk\source\repos\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.csproj.CoreCompileInputs.cache
+C:\Users\Papryk\source\repos\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.exe
+C:\Users\Papryk\source\repos\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.pdb
+C:\Users\Papryk\source\repos\DSIKKomunikator — kopia\DSIKKomunikator\bin\Debug\DSIKKomunikator.exe.config
+C:\Users\Papryk\source\repos\DSIKKomunikator — kopia\DSIKKomunikator\bin\Debug\DSIKKomunikator.exe
+C:\Users\Papryk\source\repos\DSIKKomunikator — kopia\DSIKKomunikator\bin\Debug\DSIKKomunikator.pdb
+C:\Users\Papryk\source\repos\DSIKKomunikator — kopia\DSIKKomunikator\obj\Debug\DSIKKomunikator.csprojResolveAssemblyReference.cache
+C:\Users\Papryk\source\repos\DSIKKomunikator — kopia\DSIKKomunikator\obj\Debug\DSIKKomunikator.Form1.resources
+C:\Users\Papryk\source\repos\DSIKKomunikator — kopia\DSIKKomunikator\obj\Debug\DSIKKomunikator.Form2.resources
+C:\Users\Papryk\source\repos\DSIKKomunikator — kopia\DSIKKomunikator\obj\Debug\DSIKKomunikator.Form3.resources
+C:\Users\Papryk\source\repos\DSIKKomunikator — kopia\DSIKKomunikator\obj\Debug\DSIKKomunikator.Properties.Resources.resources
+C:\Users\Papryk\source\repos\DSIKKomunikator — kopia\DSIKKomunikator\obj\Debug\DSIKKomunikator.csproj.GenerateResource.Cache
+C:\Users\Papryk\source\repos\DSIKKomunikator — kopia\DSIKKomunikator\obj\Debug\DSIKKomunikator.csproj.CoreCompileInputs.cache
+C:\Users\Papryk\source\repos\DSIKKomunikator — kopia\DSIKKomunikator\obj\Debug\DSIKKomunikator.exe
+C:\Users\Papryk\source\repos\DSIKKomunikator — kopia\DSIKKomunikator\obj\Debug\DSIKKomunikator.pdb
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\bin\Debug\DSIKKomunikator.exe.config
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\bin\Debug\DSIKKomunikator.exe
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\bin\Debug\DSIKKomunikator.pdb
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.csprojResolveAssemblyReference.cache
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Form1.resources
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Form2.resources
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Properties.Resources.resources
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.csproj.GenerateResource.Cache
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.csproj.CoreCompileInputs.cache
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.exe
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.pdb

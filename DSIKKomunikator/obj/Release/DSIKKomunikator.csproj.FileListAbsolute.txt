@@ -1,0 +1,11 @@
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\bin\Release\DSIKKomunikator.exe.config
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\bin\Release\DSIKKomunikator.exe
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\bin\Release\DSIKKomunikator.pdb
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKKomunikator.Form1.resources
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKKomunikator.Form2.resources
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKKomunikator.Properties.Resources.resources
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKKomunikator.csproj.GenerateResource.Cache
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKKomunikator.csproj.CoreCompileInputs.cache
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKKomunikator.exe
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKKomunikator.pdb
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKKomunikator.csprojResolveAssemblyReference.cache
