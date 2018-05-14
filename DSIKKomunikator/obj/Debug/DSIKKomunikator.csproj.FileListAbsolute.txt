@@ -26,10 +26,10 @@ D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\bin\Debug\DSIKKom
 D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\bin\Debug\DSIKKomunikator.exe
 D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\bin\Debug\DSIKKomunikator.pdb
 D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.csprojResolveAssemblyReference.cache
-D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Form1.resources
-D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Form2.resources
 D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Properties.Resources.resources
 D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.csproj.GenerateResource.Cache
 D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.csproj.CoreCompileInputs.cache
 D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.exe
 D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.pdb
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Start_window.resources
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Main_window.resources
