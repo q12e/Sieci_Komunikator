@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DSIKKomunikator
 {
-    public partial class Form1 : Form
+    public partial class Start_window : Form
     {
-        public Form1()
+        public Start_window()
         {
             InitializeComponent();
         }
@@ -29,7 +29,7 @@ namespace DSIKKomunikator
             server = AdressBox.Text;
             bool test = Int32.TryParse(PortBox.Text, out port);
             MessageBox.Show("Name: " + username + "\r\nServer: " + server + "\r\nPort: " + port);
-            Form2 kom = new Form2();
+            Main_window kom = new Main_window();
             kom.Show();
             this.Hide();
         }

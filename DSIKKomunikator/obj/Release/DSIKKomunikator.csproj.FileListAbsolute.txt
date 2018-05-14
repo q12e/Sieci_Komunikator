@@ -9,3 +9,5 @@ D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKK
 D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKKomunikator.exe
 D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKKomunikator.pdb
 D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKKomunikator.csprojResolveAssemblyReference.cache
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKKomunikator.Start_window.resources
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Release\DSIKKomunikator.Main_window.resources
