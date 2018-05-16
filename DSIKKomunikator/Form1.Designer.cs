@@ -44,7 +44,7 @@
             this.UserNameBox.Name = "UserNameBox";
             this.UserNameBox.Size = new System.Drawing.Size(260, 20);
             this.UserNameBox.TabIndex = 0;
-            this.UserNameBox.Text = "User1";
+            this.UserNameBox.Text = "User001";
             // 
             // label1
             // 
@@ -80,7 +80,7 @@
             this.PortBox.Name = "PortBox";
             this.PortBox.Size = new System.Drawing.Size(260, 20);
             this.PortBox.TabIndex = 7;
-            this.PortBox.Text = "12341";
+            this.PortBox.Text = "17778";
             // 
             // label3
             // 
@@ -97,7 +97,7 @@
             this.AdressBox.Name = "AdressBox";
             this.AdressBox.Size = new System.Drawing.Size(260, 20);
             this.AdressBox.TabIndex = 5;
-            this.AdressBox.Text = "192.168.1.123";
+            this.AdressBox.Text = "192.168.1.71";
             // 
             // Start_window
             // 
@@ -111,6 +111,7 @@
             this.Controls.Add(this.LogInButton);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.UserNameBox);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(300, 199);

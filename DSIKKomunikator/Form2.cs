@@ -1,4 +1,4 @@
-﻿using System;
+﻿                                                                using System;
 using System.IO;
 using System.Threading;
 using System.Text;
@@ -26,6 +26,7 @@ namespace DSIKKomunikator
         private TcpClient _tcpClient = new TcpClient();
         Task task;
 
+        //polaczenie
         private async void ConnectAsync(IPAddress ipadress, int port)
         {
             await _tcpClient.ConnectAsync(ipadress, port);
@@ -37,6 +38,7 @@ namespace DSIKKomunikator
         //Wysylanie wiadomosci
         private void button1_Click(object sender, EventArgs e)
         {
+            ChatBox.Text += Environment.NewLine; ChatBox.AppendText(Start_window.username + ": " + MsgBox.Text);
             _tcpClient.Client.Send(Encoding.ASCII.GetBytes(Start_window.username + ": " + MsgBox.Text));
             MsgBox.Text = "";
         }
@@ -44,6 +46,7 @@ namespace DSIKKomunikator
         {
             if (e.KeyCode == Keys.Enter)
             {
+                ChatBox.Text += Environment.NewLine; ChatBox.AppendText(Start_window.username + ": " + MsgBox.Text);
                 _tcpClient.Client.Send(Encoding.ASCII.GetBytes(Start_window.username + ": " + MsgBox.Text));
                 MsgBox.Text = "";
             }
@@ -79,10 +82,11 @@ namespace DSIKKomunikator
             }
         }
 
-
+        //zamykanie aplikacji
         private void Form2_FormClosing(object sender, FormClosingEventArgs e)
         {
             _tcpClient.Close();
+            Application.Exit();
         }
 
 
@@ -100,6 +104,9 @@ namespace DSIKKomunikator
                 if (fi.Length < 100000)
                 {
                     _tcpClient.Client.SendFile(open_file.FileName);
+                    pictureBox.SizeMode = PictureBoxSizeMode.Zoom;
+                    pictureBox.Image = new Bitmap(open_file.FileName);
+
                 }
                 else
                 {
