@@ -1,0 +1,11 @@
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\bin\Debug\DSIKKomunikator.exe.config
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\bin\Debug\DSIKKomunikator.exe
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\bin\Debug\DSIKKomunikator.pdb
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\Komunikator.csprojResolveAssemblyReference.cache
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Start_window.resources
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Main_window.resources
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.Properties.Resources.resources
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\Komunikator.csproj.GenerateResource.Cache
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\Komunikator.csproj.CoreCompileInputs.cache
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.exe
+D:\Programowanie\Projekt sieci\DSIKKomunikator\DSIKKomunikator\obj\Debug\DSIKKomunikator.pdb
